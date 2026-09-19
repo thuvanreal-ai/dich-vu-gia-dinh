@@ -10,7 +10,7 @@ Static website MVP cho giai đoạn test marketing tại TP.HCM.
 - Tracking hooks cho GA4/GTM
 
 ## Cần thay trước khi chạy quảng cáo
-- 0900000000 bằng số vận hành thật
+- 0916858566 bằng số vận hành thật
 - https://example.com bằng domain thật
 - Thêm GA4/GTM chính thức
 - Thêm hình ảnh/case thực tế
